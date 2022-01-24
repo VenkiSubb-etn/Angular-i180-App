@@ -9,6 +9,7 @@ We will use Angular 8 and VS Code to develop our application. Take a look at the
 
 #![Alt Text](https://i2.wp.com/ankitsharmablogs.com/wp-content/uploads/2019/01/i18n.gif)
 
+This is just intial stage and will add more details
 
 # Read the full article at
 
