@@ -16,3 +16,6 @@ https://ankitsharmablogs.com/localization-in-angular-using-i18n-tools
 
 # Application Demo
 The application is hosted at https://i18ndemo-415ef.firebaseapp.com/en/. 
+
+# Resources
+https://angular.io
