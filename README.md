@@ -7,7 +7,13 @@ In this article, we will learn how to make our Angular app available in differen
 
 We will use Angular 8 and VS Code to develop our application. Take a look at the application output.
 
+
+And this Article will be extended to use the French and Spanish as localization.
+
+
+
 # Read the full article at
+
 
 https://angular.io/guide/i18n-example#fr-ca-and-en-us-example
 
