@@ -7,10 +7,7 @@ In this article, we will learn how to make our Angular app available in differen
 
 We will use Angular 8 and VS Code to develop our application. Take a look at the application output.
 
-<<<<<<< Updated upstream
-![Alt Text](https://i2.wp.com/ankitsharmablogs.com/wp-content/uploads/2019/01/i18n.gif)
-=======
-This article will be supporting different languages like English, French and Spanish
+And this Article will be extended to use the French and Spanish as localization.
 
 #![Alt Text](https://i2.wp.com/ankitsharmablogs.com/wp-content/uploads/2019/01/i18n.gif)
 >>>>>>> Stashed changes
