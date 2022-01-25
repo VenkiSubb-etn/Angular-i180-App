@@ -18,4 +18,9 @@ And this Article will be extended to use the French and Spanish as localization.
 https://angular.io/guide/i18n-example#fr-ca-and-en-us-example
 
 # Application Demo
-The application is can be downloaded and hosted locally for a demo of the application
+
+The application is hosted at https://i18ndemo-415ef.firebaseapp.com/en/. 
+
+# Resources
+https://angular.io
+
