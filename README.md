@@ -9,11 +9,8 @@ We will use Angular 8 and VS Code to develop our application. Take a look at the
 
 And this Article will be extended to use the French and Spanish as localization.
 
-#![Alt Text](https://i2.wp.com/ankitsharmablogs.com/wp-content/uploads/2019/01/i18n.gif)
->>>>>>> Stashed changes
-
-
-# Read the full article at
+#Read the Full article at 
+https://angular.io/guide/i18n-example#fr-ca-and-en-us-example
 
 https://ankitsharmablogs.com/localization-in-angular-using-i18n-tools
 
